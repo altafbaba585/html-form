@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FORM</title>
+</head>
+
+<body>
+   
+    <h2><B>WELCOME </B></h2><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEjT8zTvKkubA/company-logo_200_200/0/1653587664114?e=2147483647&v=beta&t=1AN8k2HwvE0EG5icdAxxDp1ETvbatQlu2h_jPushNfQ" height="100px">
+    <h1>HTML FORM</h1>
+    <form>
+
+
+        <p><label>
+            First Name : <input type="text" />
+        </label>
+        </p>
+        <br>
+        <p><label>
+            Last Name:<input type="text">
+        </label></p>
+        <br>
+        <p><label>
+            Date of Birth:<input type="date">
+        </label></p>
+        <br>
+        <p><label>
+            Email Id:<input type="email">
+
+        </label></p>
+        <br>
+        <p><label>
+            Phone no:<input type="number">
+        </label></p>
+        <br>
+        <p>
+            Gender:<input type="radio" name="gender" value="male">male<input type="radio" name="gender"
+                value="female">female
+
+        </p>
+        <p>
+            <input type="submit">
+        </p>
+        <p>
+            <input type="reset">
+        </p>
+    </form>
+</body>
+
+</html>
+
+
+</body>
+
+</html>
